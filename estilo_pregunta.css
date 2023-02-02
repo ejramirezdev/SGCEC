@@ -1,0 +1,33 @@
+body{
+	background-color: #CCC;
+}
+
+#formulario1 {
+	margin: auto;
+	width: 50%;
+	max-width: 1000px;
+	background: #F3F3F3;
+	padding: 30px;
+	border: 1px solid rgba(0,0,0,0.2)
+}
+
+h2 {
+	text-align: center;
+	margin-bottom: 20px;
+	color: rgba(0,0,0,0.5);
+}
+
+img{
+	width: 300px;
+	height: 190px;
+	padding: 13px;
+}
+
+.btn-cerrar {
+	text-align: right;
+
+}
+
+#cerrar{
+	float:right;
+}
